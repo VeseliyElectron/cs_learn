@@ -7,7 +7,7 @@
     <ProjectGuid>{3B431A37-E47B-4BF3-B891-DCED60557B46}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>csharp_learn</RootNamespace>
-    <AssemblyName>csharp_learn</AssemblyName>
+    <AssemblyName>csharp_lear</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
