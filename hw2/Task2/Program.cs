@@ -6,8 +6,14 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            
-                int num;
+
+            Console.WriteLine("================================");
+            Console.WriteLine("Живилин Михаил");
+            Console.WriteLine("================================");
+            Console.WriteLine("Написать метод подсчета количества цифр числа.");
+            Console.WriteLine("================================");
+
+            int num;
                 
                 
                     Console.Write("Введите целое число: ");
