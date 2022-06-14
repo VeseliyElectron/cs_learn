@@ -6,6 +6,11 @@ namespace Task1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("================================");
+            Console.WriteLine("Живилин Михаил");
+            Console.WriteLine("================================");
+            Console.WriteLine("Написать метод, возвращающий минимальное из трёх чисел.");
+            Console.WriteLine("================================");
             Console.Write("Введите первое число: ");
             int first = int.Parse(Console.ReadLine());
             Console.Write("Введите второе число: ");
