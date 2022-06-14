@@ -1,7 +1,0 @@
-C:\Users\misha\Desktop\csharp_learn\bin\Debug\csharp_learn.exe.config
-C:\Users\misha\Desktop\csharp_learn\bin\Debug\csharp_learn.exe
-C:\Users\misha\Desktop\csharp_learn\bin\Debug\csharp_learn.pdb
-C:\Users\misha\Desktop\csharp_learn\obj\Debug\csharp_learn.csproj.AssemblyReference.cache
-C:\Users\misha\Desktop\csharp_learn\obj\Debug\csharp_learn.csproj.CoreCompileInputs.cache
-C:\Users\misha\Desktop\csharp_learn\obj\Debug\csharp_learn.exe
-C:\Users\misha\Desktop\csharp_learn\obj\Debug\csharp_learn.pdb
