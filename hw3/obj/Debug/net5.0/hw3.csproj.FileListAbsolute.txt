@@ -1,0 +1,16 @@
+C:\Users\misha\cs_learn\hw3\obj\Debug\net5.0\hw3.csproj.AssemblyReference.cache
+C:\Users\misha\cs_learn\hw3\obj\Debug\net5.0\hw3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\cs_learn\hw3\obj\Debug\net5.0\hw3.AssemblyInfoInputs.cache
+C:\Users\misha\cs_learn\hw3\obj\Debug\net5.0\hw3.AssemblyInfo.cs
+C:\Users\misha\cs_learn\hw3\obj\Debug\net5.0\hw3.csproj.CoreCompileInputs.cache
+C:\Users\misha\cs_learn\hw3\bin\Debug\net5.0\hw3.exe
+C:\Users\misha\cs_learn\hw3\bin\Debug\net5.0\hw3.deps.json
+C:\Users\misha\cs_learn\hw3\bin\Debug\net5.0\hw3.runtimeconfig.json
+C:\Users\misha\cs_learn\hw3\bin\Debug\net5.0\hw3.runtimeconfig.dev.json
+C:\Users\misha\cs_learn\hw3\bin\Debug\net5.0\hw3.dll
+C:\Users\misha\cs_learn\hw3\bin\Debug\net5.0\ref\hw3.dll
+C:\Users\misha\cs_learn\hw3\bin\Debug\net5.0\hw3.pdb
+C:\Users\misha\cs_learn\hw3\obj\Debug\net5.0\hw3.dll
+C:\Users\misha\cs_learn\hw3\obj\Debug\net5.0\ref\hw3.dll
+C:\Users\misha\cs_learn\hw3\obj\Debug\net5.0\hw3.pdb
+C:\Users\misha\cs_learn\hw3\obj\Debug\net5.0\hw3.genruntimeconfig.cache
